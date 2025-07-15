@@ -1,114 +1,114 @@
-0 ('Анатолій Кондрюк', 'kondryuk') 
-1 ("Остап Гап'як Ostap Hapyak", 'OstapHapyak') 
-2 ('Mr. Stalker', 'Sviat625') 
-3 ('Yurii Tokar', 'karamba182') 
-4 ('Anatolii Krit', 'KritAnatolii') 
-5 ('Maksym Bielik', 'belikmaks') 
-6 ('hack_the_life', 'YuryyBright') 
-7 ('Vladyslav Pavlik', 'vpavlikk') 
-8 ('Liudmyla Chaikovska', 'chaylyu') 
-9 ('Elvin', 'ElveeBolt') 
-10 ('Viktor Chuikov', 'ViktorChuikov') 
-11 ('Іван Тимошук', 'WorkTimwan') 
-12 ('Valeriia Kovaliuk', 'lerakovaliuk') 
-13 ('Maksym Shyrchenko', 'Print777') 
-14 ('Mykola Korchmeniuk', 'nyckolay') 
-15 ('Hryhorii Tonkoshkurov', 'Hryhorii1203') 
-16 ('Lilia', 'LiliaSt') 
-17 ('Uliana Krektun', 'uliana-krektun') 
-18 ('Іван Гунько', 'vonco8888') 
-19 ('Artem', 'Artem Dits') 
-20 ('Kateryna Shust', 'KShust') 
-21 ('Настя', 'omeliana-omeliana') 
-22 ('荞麦', 'nazargrechka1') 
-23 ('Anastasiia Shkalikova', 'deboramay') 
-24 ('Marharyta Lytvynenko', 'marlit7') 
-25 ('𝕴𝖒𝖕𝖊𝖗', 'VadHk') 
-26 ('Василь Мельничук', 'Vasylmelny') 
-27 ('hugoist', 'Hugoist') 
-28 ('Volodymyr Bezbozhnyi', 'vlbezbozhnyi') 
-29 ('Ілля Чистоєв', 'IlliaChystoiev') 
-30 ('Olymp', 'olymp7') 
-31 ('Viktor', 'tolkov69') 
-32 ('Bogdan', 'ByteCraftMaster') 
-33 ('Lians', 'Lians-coder') 
-34 ('Мінін Максим', 'maximminton') 
-35 ('sapphgaze', 'bakonette') 
-36 ('danil.sh', 'Danil-Shevchenko') 
-37 ('Inna', 'inna-rst') 
-38 ('Artem Makogon', 'Makartvit') 
-39 ('вікушка', 'imvikushka') 
-40 ('Boiko Anton', 'A-Boiko') 
-41 ('Оксана Нежуміра', 'nezhumira') 
-42 ('Volodymyr', 'Astronaut-08') 
-43 ('Dubynetskyi Oleh', 'Doobtree') 
-44 ('[3IRD] Old_Gamer', 'VolodumurGrundii') 
-45 ('VasiaZozulia', 'VasiaZozulia') 
-46 ('Iryna Bondar', 'IrynaVB2023') 
-47 ('Anastazis', 'Anastasis08') 
-48 ('Артем Федчун', 'afedchun') 
-49 ('Konichiwa', 'KaterynaMuzhetska') 
-50 ('Oleksandr Urusov', 'urrussov') 
-51 ('Viktoriia', 'VikaLiakh') 
-52 ('-=Харциз=-', 'NightOutlaw') 
-53 ('anatoleek', 'Anatoleek') 
-54 ('Oleksandr Severniuk', 'BonAppetitEU') 
-55 ('MagnuM', 'argo222') 
-56 ('aleksandrbezo', 'bezoOleksa') 
-57 ('Igor Shevchenko', 'Shevchenko0207') 
-58 ('✝ TR1KyT ✝', 'Tr1k853') 
-59 ('Artem Hrebeniuk', 'HrebeniukA') 
-60 ('Dmytryi Bondar', 'demon1486') 
-61 ('zeero', 'oleksandr-zeero') 
-62 ('Віра Крехтюк', 'krekhtiuk') 
-63 ('Andrii Mokliak', 'anmokliak') 
-64 ('Petrov Andrii', 'AndriiNavy') 
-65 ('Олексій Жуков', 'zavix1988') 
-66 ('StinMake', 'Ubivator161') 
-67 ('Volodymyr Kamuz', 'kamuz') 
-68 ('Юлія Клімчук', 'yuliaklimchuk') 
-69 ('Liliia Petushenko', 'Lily2502') 
-70 ('Хоггард', 'GrandpaHoggard') 
-71 ('Swiftpro', '7EvenDel') 
-72 ('Rei', 'ReiGarr') 
-73 ('Савицький Іван', 'ivansstef') 
-74 ('Богдана Стрелюк', 'Dana515') 
-75 ('Anton Fesenko', 'FesenkoAnton') 
-76 ('Ilya Honcharov', 'illyagoncharov') 
-77 ('PK_Patriot72118', 'PCkyrylo2569') 
-78 ('puliui2010', 'yhalk1') 
-79 ('YOUtryp', 'BobryshevDS') 
-80 ('IhorTi', 'IhorTre') 
-81 ('Viktor Cherukha', 'nomadjkeee') 
-82 ('Kateryna Kortsyhina', 'kgorova') 
-83 ('Nina', 'nina-kovalchuk') 
-84 ('vetaaaax', 'twlfh') 
-85 ('Serhii Protsenko', 'Serg-Protsenko') 
-86 ('Serhii_Borysenko', 'borysenkosporting') 
-87 ('Ivan Zembitskyi', 'ivze0115') 
-88 ('Kirusha', 'picter-max') 
-89 ('SerhiiKo', 'alchemyks') 
-90 ('Anton Markovych', 'Mankret') 
-91 ('Zenon Bachynskyi', 'ZenBay') 
-92 ('Mykola Medina', 'foxittt') 
-93 ('Максим', 'makc501') 
-94 ('Bak', 'Bak95') 
-95 ('K o t e', 'F-ros-t') 
-96 ('Liubomyr Fedorov', 'LiubomirFedorov') 
-97 ('MikhaylyukMikhail', 'mikhaylyuk') 
-98 ('midnight', 'ngnlzer0') 
-99 ('Руслан Яровий', 'yarusol') 
-100 ('ws_sdk', 'Anastasiia-Hv') 
-101 ('Maksym Zhura', 'f00a0a') 
-102 ('rubin13', 'Polysshkin') 
-103 ('IceCream', 'bherych') 
-104 ('Brylinskyi Mykhailo', 'brylinskyi') 
-105 ('Тыковка', 'Tyk0wka') 
-106 ('Юлія', 'Lightmee') 
-107 ('Сергій Леваднюк', 'SLevadniuk') 
-108 ('Єгор Бобирь', 'egorbobyr') 
-109 ('Yaroslav Nemolot', 'Zero2L') 
-110 ('Ivan Zhaldak', 'RexSplode') 
-111 ('Дмитро Вараніцький', 'dimonstools') 
-112 ('Володимир Скасків (malvolf)', 'VolodymyrSkaskiv') 
-113 ('AnnaKhrystiuk', 'AnnaKhrystiuk') 
+0  'kondryuk'
+1  'OstapHapyak'
+2  'Sviat625'
+3  'karamba182'
+4  'KritAnatolii'
+5  'belikmaks'
+6  'YuryyBright'
+7  'vpavlikk'
+8  'chaylyu'
+9  'ElveeBolt'
+10  'ViktorChuikov'
+11  'WorkTimwan'
+12  'lerakovaliuk'
+13  'Print777'
+14  'nyckolay'
+15  'Hryhorii1203'
+16  'LiliaSt'
+17  'uliana-krektun'
+18  'vonco8888'
+19  'Artem Dits'
+20  'KShust'
+21  'omeliana-omeliana'
+22  'nazargrechka1'
+23  'deboramay'
+24  'marlit7'
+25  'VadHk'
+26  'Vasylmelny'
+27  'Hugoist'
+28  'vlbezbozhnyi'
+29  'IlliaChystoiev'
+30  'olymp7'
+31  'tolkov69'
+32  'ByteCraftMaster'
+33  'Lians-coder'
+34  'maximminton'
+35  'bakonette'
+36  'Danil-Shevchenko'
+37  'inna-rst'
+38  'Makartvit'
+39  'imvikushka'
+40  'A-Boiko'
+41  'nezhumira'
+42  'Astronaut-08'
+43  'Doobtree'
+44  'VolodumurGrundii'
+45  'VasiaZozulia'
+46  'IrynaVB2023'
+47  'Anastasis08'
+48  'afedchun'
+49  'KaterynaMuzhetska'
+50  'urrussov'
+51  'VikaLiakh'
+52  'NightOutlaw'
+53  'Anatoleek'
+54  'BonAppetitEU'
+55  'argo222'
+56  'bezoOleksa'
+57  'Shevchenko0207'
+58  'Tr1k853'
+59  'HrebeniukA'
+60  'demon1486'
+61  'oleksandr-zeero'
+62  'krekhtiuk'
+63  'anmokliak'
+64  'AndriiNavy'
+65  'zavix1988'
+66  'Ubivator161'
+67  'kamuz'
+68  'yuliaklimchuk'
+69  'Lily2502'
+70  'GrandpaHoggard'
+71  '7EvenDel'
+72  'ReiGarr'
+73  'ivansstef'
+74  'Dana515'
+75  'FesenkoAnton'
+76  'illyagoncharov'
+77  'PCkyrylo2569'
+78  'yhalk1'
+79  'BobryshevDS'
+80  'IhorTre'
+81  'nomadjkeee'
+82  'kgorova'
+83  'nina-kovalchuk'
+84  'twlfh'
+85  'Serg-Protsenko'
+86  'borysenkosporting'
+87  'ivze0115'
+88  'picter-max'
+89  'alchemyks'
+90  'Mankret'
+91  'ZenBay'
+92  'foxittt'
+93  'makc501'
+94  'Bak95'
+95  'F-ros-t'
+96  'LiubomirFedorov'
+97  'mikhaylyuk'
+98  'ngnlzer0'
+99  'yarusol'
+100  'Anastasiia-Hv'
+101  'f00a0a'
+102  'Polysshkin'
+103  'bherych'
+104  'brylinskyi'
+105  'Tyk0wka'
+106  'Lightmee'
+107  'SLevadniuk'
+108  'egorbobyr'
+109  'Zero2L'
+110  'RexSplode'
+111  'dimonstools'
+112  'VolodymyrSkaskiv'
+113  'AnnaKhrystiuk'
