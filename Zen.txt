@@ -1,3 +1,4 @@
+
 0 ('Анатолій Кондрюк', 'kondryuk') 
 1 ("Остап Гап'як Ostap Hapyak", 'OstapHapyak') 
 2 ('Mr. Stalker', 'Sviat625') 
@@ -32,7 +33,7 @@
 31 ('Viktor', 'tolkov69') 
 32 ('Bogdan', 'ByteCraftMaster') 
 33 ('Lians', 'Lians-coder') 
-34 ('Мінін Максим', 'maximminton') 
+34 Now is better than never. 
 35 ('sapphgaze', 'bakonette') 
 36 ('danil.sh', 'Danil-Shevchenko') 
 37 ('Inna', 'inna-rst') 
