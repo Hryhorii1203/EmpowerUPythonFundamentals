@@ -31,8 +31,13 @@
 30  'olymp7'
 31  'tolkov69'
 32  'ByteCraftMaster'
+<<<<<<< HEAD
 33  'Lians-coder'
 34  'maximminton'
+=======
+33 Although that way may not be obvious at first unless you're Dutch.
+34 Now is better than never. 
+>>>>>>> ee8e1b0 (Changed my line)
 35  'bakonette'
 36  'Danil-Shevchenko'
 37  'inna-rst'
