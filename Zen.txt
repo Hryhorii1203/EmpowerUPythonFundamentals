@@ -4,7 +4,7 @@
 3  'karamba182'
 4  'KritAnatolii'
 5  'belikmaks'
-6  'YuryyBright'
+6. 'Sparse is better than dense.'
 7  'vpavlikk'
 8  'chaylyu'
 9  'ElveeBolt'
