@@ -12,7 +12,7 @@
 11   Unless explicitly silenced.
 12  'lerakovaliuk'
 13  'Print777'
-14  'nyckolay'
+14  'Although that way may not be obvious at first unless you're Dutch.'
 15  'Hryhorii1203'
 16  'LiliaSt'
 17  'uliana-krektun'
@@ -22,28 +22,16 @@
 21  Explicit is better than implicit.
 22  'nazargrechka1'
 23  'deboramay'
-<<<<<<< HEAD
 24  'marlit7'
 25  'VadHk'
-=======
-24  Flat is better than nested.
-25  'Sparse is better than dense'
->>>>>>> 5a635fa5e11b4b01fefe09df83d47f7f58bfbccf
 26  'Vasylmelny'
 27  'Hugoist'
 28  'Although practicality beats purity.'
 29  'IlliaChystoiev'
-<<<<<<< HEAD
 30  'olymp7'
 31  'tolkov69'
 32  'ByteCraftMaster'
 33  'Lians-coder'
-=======
-30.Unless explicitly silenced.
-31  'tolkov69'
-32  'ByteCraftMaster'
-33 Although that way may not be obvious at first unless you're Dutch.
->>>>>>> 5a635fa5e11b4b01fefe09df83d47f7f58bfbccf
 34 Now is better than never. 
 35  'bakonette'
 36  'Danil-Shevchenko'
@@ -55,14 +43,10 @@
 42  Complex is better than complicated.
 43  'Doobtree'
 44  'VolodumurGrundii'
-<<<<<<< HEAD
 45  'VasiaZozulia'
-=======
-45  Readability counts.
->>>>>>> 5a635fa5e11b4b01fefe09df83d47f7f58bfbccf
 46  'IrynaVB2023'
 47  'Anastasis08'
-48  'afedchun'
+48  Errors should never pass silently.
 49  'KaterynaMuzhetska'
 50  'urrussov'
 51  'VikaLiakh'
@@ -86,11 +70,7 @@
 69  'Lily2502'
 70  'GrandpaHoggard'
 71  '7EvenDel'
-<<<<<<< HEAD
 Now is better than never.
-=======
-72  'ReiGarr'
->>>>>>> 5a635fa5e11b4b01fefe09df83d47f7f58bfbccf
 73  'ivansstef'
 74  'Dana515'
 75  'FesenkoAnton'
