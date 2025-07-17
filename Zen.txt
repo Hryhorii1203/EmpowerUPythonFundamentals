@@ -21,7 +21,7 @@
 20  'KShust'
 21  Explicit is better than implicit.
 22  'nazargrechka1'
-23  'deboramay'
+23  'Complex is better than complicated.'
 24  'marlit7'
 25  'VadHk'
 26  'Vasylmelny'
