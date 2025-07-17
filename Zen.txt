@@ -12,7 +12,7 @@
 11   Unless explicitly silenced.
 12  'lerakovaliuk'
 13  'Print777'
-14  'nyckolay'
+14  'Although that way may not be obvious at first unless you're Dutch.'
 15  'Hryhorii1203'
 16  'LiliaSt'
 17  'uliana-krektun'
@@ -52,7 +52,7 @@
 39  'imvikushka'
 40  'A-Boiko'
 41  'nezhumira'
-42  Beautiful is better than ugly.
+42  Complex is better than complicated.
 43  'Doobtree'
 44  'VolodumurGrundii'
 <<<<<<< HEAD
@@ -70,7 +70,7 @@
 53  'Anatoleek'
 54  'BonAppetitEU'
 55  'argo222'
-56  'bezoOleksa'
+56  If the implementation is easy to explain, it may be a good idea.
 57  'Shevchenko0207'
 58  'Tr1k853'
 59  'HrebeniukA'
