@@ -52,7 +52,7 @@
 39  'imvikushka'
 40  'A-Boiko'
 41  'nezhumira'
-42  Beautiful is better than ugly.
+42  Complex is better than complicated.
 43  'Doobtree'
 44  'VolodumurGrundii'
 <<<<<<< HEAD
