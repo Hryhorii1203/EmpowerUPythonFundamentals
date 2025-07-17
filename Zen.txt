@@ -52,7 +52,7 @@
 39  'imvikushka'
 40  'A-Boiko'
 41  'nezhumira'
-42  Beautiful is better than ugly.
+42  Complex is better than complicated.
 43  'Doobtree'
 44  'VolodumurGrundii'
 <<<<<<< HEAD
@@ -71,7 +71,7 @@
 54  'BonAppetitEU'
 55  'argo222'
 56  'bezoOleksa'
-57  'Shevchenko0207'
+57  Namespaces are one honking great idea -- let's do more of those!
 58  'Tr1k853'
 59  'HrebeniukA'
 60  'demon1486'
