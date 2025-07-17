@@ -70,7 +70,7 @@
 53  'Anatoleek'
 54  'BonAppetitEU'
 55  'argo222'
-56  'bezoOleksa'
+56  If the implementation is easy to explain, it may be a good idea.
 57  'Shevchenko0207'
 58  'Tr1k853'
 59  'HrebeniukA'
