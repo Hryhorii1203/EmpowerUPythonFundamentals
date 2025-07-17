@@ -4,7 +4,7 @@
 3  'karamba182'
 4  'KritAnatolii'
 5  'belikmaks'
-6  'YuryyBright'
+6. 'Sparse is better than dense.'
 7  'vpavlikk'
 8  'chaylyu'
 9  'ElveeBolt'
@@ -19,7 +19,7 @@
 18  'vonco8888'
 19  'Artem Dits'
 20  'KShust'
-21  'omeliana-omeliana'
+21  Explicit is better than implicit.
 22  'nazargrechka1'
 23  'deboramay'
 <<<<<<< HEAD
@@ -105,12 +105,16 @@ Now is better than never.
 84  'twlfh'
 85  'Serg-Protsenko'
 86  'borysenkosporting'
+<<<<<<< HEAD
 87  'ivze0115'
 <<<<<<< HEAD
 88  'picter-max'
 89  'alchemyks'
 90  'Mankret'
 =======
+=======
+87  'Unless explicitly silenced.'
+>>>>>>> 6e10e86f5dc1b549efb26cfbbab7d13f87c1c6fe
 88  'In the face of ambiguity, refuse the temptation to guess.'
 89  'There should be one-- and preferably only one --obvious way to do it.'
 90  Although that way may not be obvious at first unless you're Dutch.
