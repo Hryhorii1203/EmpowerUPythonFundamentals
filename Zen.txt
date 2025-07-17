@@ -103,7 +103,7 @@ Now is better than never.
 82  'kgorova'
 83  'nina-kovalchuk'
 84  'twlfh'
-85  'Serg-Protsenko'
+85  'Although practicality beats purity.'
 86  'borysenkosporting'
 <<<<<<< HEAD
 87  'ivze0115'
