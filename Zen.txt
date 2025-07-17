@@ -19,7 +19,7 @@
 18  'vonco8888'
 19  'Artem Dits'
 20  'KShust'
-21  'omeliana-omeliana'
+21  Explicit is better than implicit.
 22  'nazargrechka1'
 23  'deboramay'
 24  Flat is better than nested.
