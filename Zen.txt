@@ -38,7 +38,7 @@
 37  'inna-rst'
 38  'Makartvit'
 39  'imvikushka'
-40  'A-Boiko'
+40  Explicit is better than implicit.
 41  'nezhumira'
 42  Complex is better than complicated.
 43  'Doobtree'
