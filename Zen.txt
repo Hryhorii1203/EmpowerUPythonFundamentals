@@ -31,7 +31,7 @@
 >>>>>>> 5a635fa5e11b4b01fefe09df83d47f7f58bfbccf
 26  'Vasylmelny'
 27  'Hugoist'
-28  'vlbezbozhnyi'
+28  'Although practicality beats purity.'
 29  'IlliaChystoiev'
 <<<<<<< HEAD
 30  'olymp7'
