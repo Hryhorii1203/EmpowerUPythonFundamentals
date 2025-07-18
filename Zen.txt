@@ -50,7 +50,7 @@
 48  Errors should never pass silently.
 49  'KaterynaMuzhetska'
 50  'urrussov'
-51  'VikaLiakh'
+51  'There should be one-- and preferably only one --obvious way to do it.'
 52  'NightOutlaw'
 53  'Anatoleek'
 54  'BonAppetitEU'
@@ -65,7 +65,7 @@
 63  'anmokliak'
 64  'AndriiNavy'
 65  'zavix1988'
-66  'Ubivator161'
+66  'Although practicality beats purity.'
 67  'kamuz'
 68  'yuliaklimchuk'
 69  'Lily2502'
