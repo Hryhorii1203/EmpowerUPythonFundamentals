@@ -23,15 +23,15 @@
 22  'nazargrechka1'
 23  'Complex is better than complicated.'
 24  'marlit7'
-25  'VadHk'
+25  'Sparse is better than dense'
 26  'Vasylmelny'
 27  'Hugoist'
 28  'Although practicality beats purity.'
 29  'IlliaChystoiev'
-30  'olymp7'
+30.Unless explicitly silenced.
 31  'tolkov69'
 32  'ByteCraftMaster'
-33  'Lians-coder'
+33 Although that way may not be obvious at first unless you're Dutch.
 34 Now is better than never. 
 35  'bakonette'
 36  'Danil-Shevchenko'
