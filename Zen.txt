@@ -72,7 +72,7 @@
 70  'GrandpaHoggard'
 71  '7EvenDel'
 Now is better than never.
-73  'ivansstef'
+73  Although never is often better than *right* now
 74  'Dana515'
 75  'FesenkoAnton'
 76  'illyagoncharov'
