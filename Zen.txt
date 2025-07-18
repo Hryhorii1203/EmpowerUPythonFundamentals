@@ -104,7 +104,7 @@ Now is better than never.
 92  'foxittt'
 93  'makc501'
 94  'Bak95'
-95  'F-ros-t'
+95  Namespaces are one honking great idea -- let's do more of those!
 96  'LiubomirFedorov'
 <<<<<<< HEAD
 97  Explicit is better than implicit.
