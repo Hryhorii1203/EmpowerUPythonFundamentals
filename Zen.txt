@@ -16,7 +16,7 @@
 15  'Hryhorii1203'
 16  'LiliaSt'
 17  'uliana-krektun'
-18  'vonco8888'
+18  If the implementation is easy to explain, it may be a good idea.
 19  'Artem Dits'
 20  'KShust'
 21  Explicit is better than implicit.
