@@ -107,7 +107,7 @@ Now is better than never.
 95  'F-ros-t'
 96  'LiubomirFedorov'
 <<<<<<< HEAD
-97  'mikhaylyuk'
+97  Explicit is better than implicit.
 =======
 97  Explicit is better than implicit.
 >>>>>>> 5a635fa5e11b4b01fefe09df83d47f7f58bfbccf
