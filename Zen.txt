@@ -39,7 +39,7 @@
 38  'Makartvit'
 39  'imvikushka'
 40  Explicit is better than implicit.
-41  'nezhumira'
+41  Simple is better than complex.
 42  Complex is better than complicated.
 43  'Doobtree'
 44  'VolodumurGrundii'
