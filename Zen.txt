@@ -34,7 +34,7 @@
 33 Although that way may not be obvious at first unless you're Dutch.
 34 Now is better than never.
 35  'bakonette'
-36  'Danil-Shevchenko'
+36  'If the implementation is hard to explain, it's a bad idea.'
 37  'inna-rst'
 38  'Makartvit'
 39  'imvikushka'
