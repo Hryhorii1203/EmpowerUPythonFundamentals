@@ -36,7 +36,7 @@
 35  'bakonette'
 36  'Danil-Shevchenko'
 37  'inna-rst'
-38  'Makartvit'
+38  'Beautiful is better than ugly.'
 39  'imvikushka'
 40  Explicit is better than implicit.
 41  Simple is better than complex.
