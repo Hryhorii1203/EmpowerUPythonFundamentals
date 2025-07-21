@@ -124,6 +124,6 @@ Now is better than never.
 108  'egorbobyr'
 109  'Zero2L'
 110  Now is better than never.
-111  'dimonstools'
+111  Although never is often better than *right* now.
 112  'VolodymyrSkaskiv'
 113  'AnnaKhrystiuk'
