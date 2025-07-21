@@ -13,7 +13,11 @@
 12  'lerakovaliuk'
 13  'Print777'
 14  'Although that way may not be obvious at first unless you're Dutch.'
+<<<<<<< HEAD
 15   Now is better than never.
+=======
+15  'Now is better than never'
+>>>>>>> 3910b18d427c121b69cd71787e68b60a6a8c7041
 16  'LiliaSt'
 17  'uliana-krektun'
 18  If the implementation is easy to explain, it may be a good idea.
@@ -22,7 +26,7 @@
 21  Explicit is better than implicit.
 22  'nazargrechka1'
 23  'Complex is better than complicated.'
-24  'marlit7'
+24  'Flat is better than nested.'
 25  'Sparse is better than dense'
 26  'Vasylmelny'
 27  'Hugoist'
@@ -30,13 +34,13 @@
 29  'IlliaChystoiev'
 30.Unless explicitly silenced.
 31  'tolkov69'
-32  'ByteCraftMaster'
+32.There should be one-- and preferably only one --obvious way to do it.
 33 Although that way may not be obvious at first unless you're Dutch.
 34 Now is better than never.
 35  'bakonette'
 36  'Danil-Shevchenko'
 37  'inna-rst'
-38  'Makartvit'
+38  'Beautiful is better than ugly.'
 39  'imvikushka'
 40  Explicit is better than implicit.
 41  Simple is better than complex.
@@ -124,6 +128,7 @@ Now is better than never.
 108  'egorbobyr'
 109  'Zero2L'
 110  Now is better than never.
-111  'dimonstools'
+111  Although never is often better than *right* now.
 112  'VolodymyrSkaskiv'
 113  'AnnaKhrystiuk'
+114  'Namespaces are one honking great idea -- let's do more of those!'
