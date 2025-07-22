@@ -1,33 +1,21 @@
-import tasks
+from lib import tasks
+  
 
 def main():
-    i = int(input("Enter a task number: "))
+    part = int(input("Enter tasks part number (1 or 2): "))
 
-    match i:
+    match part:
         case 1:
-            print("Executing Task 1 (largest digit between two numbers):")
+            print("Executing Part 1:")
             print("--------------------------")
-            a = int(input('Enter first number: '))
-            b = int(input('Enter second number: '))
-            tasks.task_1(a=a, b=b)
-            print("=======================")
+            tasks.part_1()
         case 2:
-            print("Executing Task 2 (area of figures):")
+            print("Executing Part 2:")
             print("--------------------------")
-            a = int(input('Enter side: '))
-            h = int(input('Enter height: '))
-            tasks.task_2(a=a, h=h)
-            print("=======================")
-        case 3:
-            print("Executing Task 3 (calculates the number of cgarecters):")
-            print("--------------------------")
-            word = input('Enter the word: ')
-            tasks.task_3(word=word)
-            print("=======================")
+            tasks.part_2()
         case _:
-            print("Invalid task number. Please enter 1, 2, or 3.")
+            print("Invalid part number. Please enter 1 or 2.")
             main()
-            print("=======================")
    
 if __name__ == "__main__":
     main()
