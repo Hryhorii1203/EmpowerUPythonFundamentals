@@ -1,4 +1,4 @@
-from lib import tasks
+from library import tasks
   
 
 def main():
